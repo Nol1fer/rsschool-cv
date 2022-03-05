@@ -9,3 +9,21 @@
 - Experience: none, but i really want to learn new things
 - What i want: job with salary
 - Why me? idk
+
+## Skills
+- C++
+- Beginner in html, css, javascript, git, linux
+
+## Code example
+```JavaScript
+var isSquare = function(n){
+  if (n<0) return false;
+  let number = 0;
+  while(number * number < n){
+    number++;
+  }
+  if (number * number == n)
+    return true;
+  return false;
+}
+```
