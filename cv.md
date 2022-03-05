@@ -27,3 +27,11 @@ var isSquare = function(n){
   return false;
 }
 ```
+
+## Education
+- Great 11 useful years in school
+
+## English level
+- [Efset](https://www.efset.org/):
+	-  15 min test - advanced reading and listening
+    
